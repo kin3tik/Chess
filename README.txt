@@ -20,9 +20,7 @@ Controls:
 
 Misc Notes: 
 
-- Comes with 2 pre made files to load. 'smile.txt' and 'standard.txt'
-
-- Did not implement both views at once
+- Comes with 2 pre made files to load. 'smile.txt' and 'standard.
 
 
 Only Shows in console
