@@ -1,8 +1,6 @@
 2D Chess Representation in Processing
 =====================================
 
--------------------------------------
-
 ##Controls
 
 * Click on a piece to select it, click on another space to move the piece there.
@@ -13,7 +11,7 @@
 
 ##Notes
 
-* Comes with 2 pre made files to load. 'smile.txt' and 'standard.
+* Comes with 2 pre made files to load. 'smile.txt' and 'standard'.
 
 ###Only in Console View
 
@@ -28,4 +26,4 @@
 ##Acknowledgements
 
 * Chess piece pictures taken from Wikipedia
->http://en.wikipedia.org/wiki/Chess_piece
+> http://en.wikipedia.org/wiki/Chess_piece
