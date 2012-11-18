@@ -1,6 +1,8 @@
 2D Chess Representation in Processing
 =====================================
 
+-------------------------------------
+
 ##Controls
 
 * Click on a piece to select it, click on another space to move the piece there.
