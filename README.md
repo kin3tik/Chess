@@ -25,5 +25,4 @@
 
 ##Acknowledgements
 
-* Chess piece pictures taken from Wikipedia
-> http://en.wikipedia.org/wiki/Chess_piece
+* Chess piece pictures taken from Wikipedia `http://en.wikipedia.org/wiki/Chess_piece`
